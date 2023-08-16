@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 body{
     overflow-x: hidden;
 }
@@ -8,7 +9,7 @@ body{
 }
 
 #menu{
-    background-color: #113129 !important;
+    background-color: #601B3C !important;
 }
 
 .alto-img{
@@ -263,3 +264,34 @@ footer{
 #domicilios{
     background-image: linear-gradient(#6e0808, #2832b822);
 }
+
+.carousel-caption p {
+    color: #601B3C !important;
+     margin-bottom: 420px !important;
+     font-size: 1.5rem;
+     
+     
+}
+
+.carousel-caption h5{
+   font-family: 'Lobster', cursive !important;
+   font-size: 2rem;
+   color: #601B3C !important;
+
+}
+.carousel-caption p{
+    color: #faea07 !important;
+    border-color: #601B3C;
+    background-color: #601B3C;
+    width: 150px;
+    margin: 0 auto;
+}
+.brai {
+    text-align: center ;
+    width: 450px;
+    margin: 0 auto;
+    background-color: #601B3C;
+    color: #faea07 !important;  
+}
+
+
